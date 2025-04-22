@@ -23,8 +23,8 @@ npm install
 {
   "mcpServers": {
     "Node.js MCP Server": {
-      "command": "/home/ritesh/.nvm/versions/node/v22.14.0/bin/node",
-      "args": ["/home/ritesh/projects/mcp-server-node/mcp-server.js"],
+      "command": "/path/to/node",
+      "args": ["/path/to/mcp-server.js"],
       "env": {
         "PRIVATE_KEY": "add private key here"
       }
